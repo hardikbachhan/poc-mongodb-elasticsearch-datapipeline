@@ -1,0 +1,11 @@
+{
+  "name": "elasticsearch-demo",
+  "version": "1.0.0",
+  "description": "poc for elastic powered app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hardik Bachhan",
+  "license": "ISC"
+}
